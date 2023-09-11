@@ -5,7 +5,6 @@ by Sirius
 
 shlex | Designing + Programming
 iRay  | Programming
-d
 
 ]]
 
@@ -27,10 +26,10 @@ local RayfieldLibrary = {
 			TextColor = Color3.fromRGB(240, 240, 240),
 
 			Background = Color3.fromRGB(28, 36, 56),
-			Topbar = Color3.fromRGB(34, 34, 34),
+			Topbar = Color3.fromRGB(48, 56, 65),
 			Shadow = Color3.fromRGB(20, 20, 20),
 
-			NotificationBackground = Color3.fromRGB(20, 20, 20),
+			NotificationBackground = Color3.fromRGB(28, 36, 56),
 			NotificationActionsBackground = Color3.fromRGB(230, 230, 230),
 
 			TabBackground = Color3.fromRGB(28, 36, 56),
